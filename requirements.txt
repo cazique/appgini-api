@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+requests
+mysqlclient
+pymysql
+sqlparse # Added sqlparse
+# pytest will be added later for testing
